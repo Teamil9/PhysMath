@@ -1,0 +1,19 @@
+{
+  "name": "physmath",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Teamil9/PhysMath.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Teamil9/PhysMath/issues"
+  },
+  "homepage": "https://github.com/Teamil9/PhysMath#readme"
+}
